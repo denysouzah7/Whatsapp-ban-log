@@ -43,6 +43,16 @@
       "timestamp": "08/08/2025, 15:55:21",
       "date": "08/08/2025",
       "time": "15:55:21"
+    },
+    {
+      "userId": "5513981663226@s.whatsapp.net",
+      "groupId": "120363169815353703@g.us",
+      "reason": "Envio de link não permitido",
+      "message": "https://google.com",
+      "messageType": "link",
+      "timestamp": "08/08/2025, 16:18:13",
+      "date": "08/08/2025",
+      "time": "16:18:13"
     }
   ]
 }
