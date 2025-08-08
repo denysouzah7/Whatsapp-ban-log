@@ -1,1 +1,42 @@
-{}
+{
+  "120363029938934446@g.us": [
+    {
+      "userId": "5513981663226@s.whatsapp.net",
+      "userTag": "@5513981663226",
+      "groupId": "120363029938934446@g.us",
+      "groupName": "Lá ele 1000×",
+      "reason": "Envio de link não permitido",
+      "message": "google.com",
+      "messageType": "link",
+      "timestamp": "2025-08-08T20:41:43.038Z",
+      "date": "08/08/2025",
+      "time": "17:41:43"
+    },
+    {
+      "userId": "5513981663226@s.whatsapp.net",
+      "userTag": "@5513981663226",
+      "groupId": "120363029938934446@g.us",
+      "groupName": "Lá ele 1000×",
+      "reason": "Envio de link não permitido",
+      "message": "google.com",
+      "messageType": "link",
+      "timestamp": "2025-08-08T20:38:18.342Z",
+      "date": "08/08/2025",
+      "time": "17:38:18"
+    }
+  ],
+  "120363372273919190@g.us": [
+    {
+      "userId": "5513981663226@s.whatsapp.net",
+      "userTag": "@5513981663226",
+      "groupId": "120363372273919190@g.us",
+      "groupName": "Nunca 𝘧𝘶𝘪 𝘵𝘳𝘪𝘴𝘵𝘦",
+      "reason": "Envio de link não permitido",
+      "message": "google.com",
+      "messageType": "link",
+      "timestamp": "2025-08-08T21:47:52.668Z",
+      "date": "08/08/2025",
+      "time": "18:47:52"
+    }
+  ]
+}
