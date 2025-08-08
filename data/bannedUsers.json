@@ -40,6 +40,18 @@
       "groupId": "120363169815353703@g.us",
       "groupName": "Top da galáxia",
       "reason": "Envio de link não permitido",
+      "message": "google.com",
+      "messageType": "link",
+      "timestamp": "2025-08-08T19:32:48.511Z",
+      "date": "08/08/2025",
+      "time": "16:32:48"
+    },
+    {
+      "userId": "5513981663226@s.whatsapp.net",
+      "userTag": "@5513981663226",
+      "groupId": "120363169815353703@g.us",
+      "groupName": "Top da galáxia",
+      "reason": "Envio de link não permitido",
       "message": "https://google.com",
       "messageType": "link",
       "timestamp": "2025-08-08T19:29:29.635Z",
