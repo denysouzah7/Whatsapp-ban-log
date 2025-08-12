@@ -1,6 +1,23 @@
 {
   "120363028958108773@g.us": [
     {
+      "userId": "5519988118240@s.whatsapp.net",
+      "userTag": "@5519988118240",
+      "groupId": "120363028958108773@g.us",
+      "groupName": "𝘕𝘶𝘯𝘤𝘢 𝘧𝘶𝘪 𝘵𝘳𝘪𝘴𝘵𝘦",
+      "reason": "Envio de solicitação de pagamento não permitido",
+      "message": "Mensagem de pagamento",
+      "messageType": "payment",
+      "timestamp": "2025-08-12T20:00:36.816Z",
+      "date": "12/08/2025",
+      "time": "20:00:36",
+      "paymentDetails": {
+        "amount": "1",
+        "currency": "N/A",
+        "requestFrom": "N/A"
+      }
+    },
+    {
       "userId": "5516974031680@s.whatsapp.net",
       "userTag": "@5516974031680",
       "groupId": "120363028958108773@g.us",
