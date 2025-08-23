@@ -166,6 +166,23 @@
   ],
   "120363360833751139@g.us": [
     {
+      "userId": "557381400836@s.whatsapp.net",
+      "userTag": "@557381400836",
+      "groupId": "120363360833751139@g.us",
+      "groupName": "𝘔𝘪𝘯𝘩𝘢 𝘤â𝘮𝘦𝘳𝘢 𝘯ã𝘰 𝘧𝘰𝘤𝘢",
+      "reason": "Envio de solicitação de pagamento não permitido",
+      "message": "Mensagem de pagamento",
+      "messageType": "payment",
+      "timestamp": "2025-08-23T14:10:42.693Z",
+      "date": "23/08/2025",
+      "time": "14:10:42",
+      "paymentDetails": {
+        "amount": "0",
+        "currency": "kk",
+        "requestFrom": "N/A"
+      }
+    },
+    {
       "userId": "557381503197@s.whatsapp.net",
       "userTag": "@557381503197",
       "groupId": "120363360833751139@g.us",
