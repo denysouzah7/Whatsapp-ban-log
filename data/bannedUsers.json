@@ -1322,5 +1322,19 @@
       "date": "16/08/2025",
       "time": "13:03:30"
     }
+  ],
+  "120363023960010224@g.us": [
+    {
+      "userId": "5513982295101@s.whatsapp.net",
+      "userTag": "@5513982295101",
+      "groupId": "120363023960010224@g.us",
+      "groupName": "Conexão Amizade",
+      "reason": "Envio de link não permitido",
+      "message": "https://nunca.sh",
+      "messageType": "link",
+      "timestamp": "2025-09-11T14:12:55.332Z",
+      "date": "11/09/2025",
+      "time": "14:12:55"
+    }
   ]
 }
