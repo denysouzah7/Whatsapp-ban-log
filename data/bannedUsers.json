@@ -24,5 +24,19 @@
       "date": "06/09/2025",
       "time": "14:56:59"
     }
+  ],
+  "120363023960010224@g.us": [
+    {
+      "userId": "5513981663226@s.whatsapp.net",
+      "userTag": "@5513981663226",
+      "groupId": "120363023960010224@g.us",
+      "groupName": "Conexão Amizade",
+      "reason": "Envio de link não permitido",
+      "message": "https://instagram.com/cristhian_alexandre",
+      "messageType": "link",
+      "timestamp": "2025-09-13T14:50:08.354Z",
+      "date": "13/09/2025",
+      "time": "11:50:08"
+    }
   ]
 }
